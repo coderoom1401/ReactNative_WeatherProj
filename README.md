@@ -5,6 +5,6 @@
 
 该项目还对toast进行了简单的封装，供ReactNative调用，后期将对定位功能进行封装(基于百度定位SDK)
 
-支付宝扫描下方二维码，可以给哥捐赞助费
+微信扫描下方二维码，可以关注全球最🔥的程序员专属公众号
 
-<img src="https://github.com/coderoom1401/ReactNative_WeatherProj/blob/master/pay4me.jpg" alt="screenshot" width="300px" heigh="382"/>
+<img src="https://github.com/coderoom1401/ReactNative_WeatherProj/blob/master/gzh.jpg" alt="screenshot" width="300px" heigh="382" />
